@@ -10,6 +10,9 @@ https://github.com/ysc3839/luci-proto-minieap
 
 https://github.com/updateing/minieap
 
+锐捷多拨资料，本人未尝试过
+https://github.com/tkkcc/mentohust
+
 之前我是ac2100，openwrt，luci-proto-minieap放宿舍共享网络的。
 现在路由器没带，学校就53端口放行，电脑开了个wireguard共享网络。推荐用
 https://github.com/micahmo/WgServerforWindows 
